@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    /*border: 1px solid black;*/
+}
+
+/* Logotipo */
+.layout-grid {
+    margin: 0 auto;
+    width: 1200px;
+    height: 100px;
+    /*border: 1px solid red;*/
+
+}
+
+.header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Logotipo */
+header img {
+    width: 140px;
+    /*border: 1px solid green;*/
+}
+
+/* Menu */
+header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 330px;
+    /*border: 1px solid green;*/
+}
+
+/* Lins precisam ser estilizados separadamente*/
+header nav a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/********* BANNER*********/
+.banner {
+    position: relative;
+    width: 100%;
+}
+
+.banner img {
+    width: 100%;
+    position: relative; /*referencial e ele proprio*/
+    top: 0;
+    left: 0;
+}
+
+.banner a {
+    /*referencial de posicionamento e o primeiro ancestral
+    que tiver algum position definidos*/
+    position: absolute;
+    top: calc((50% - 45px / 2) + 100px);
+    left: calc(50% - 155px / 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: grey;
+    width: 155px;
+    height: 45px;
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+/*********** REASON TO USE***********/
+.reason-to-use {
+    /* position: relative; */
+    height: 500px;
+    width: 100%;
+    border: 2px solid blue;
+}
+
+.reason-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+}
+
+.reason-to-use .reason-card {
+    width: 300px;
+    height: 300px;
+    border: 2px solid green;
+    background-color: salmon;
+}

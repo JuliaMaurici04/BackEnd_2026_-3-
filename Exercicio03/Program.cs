@@ -1,4 +1,4 @@
 ﻿using Exercicio03;
-Pessoa ju = new Pessoa();
+Pessoa ju = new Pessoa("Julia", -1);
 
-Console.WriteLine("Hello, World!");
+ju.ExibirDados();
