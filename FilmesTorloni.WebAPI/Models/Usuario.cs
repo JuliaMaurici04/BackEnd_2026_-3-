@@ -21,4 +21,8 @@ public partial class Usuario
     [StringLength(60)]
     [Unicode(false)]
     public string Senha { get; set; } = null!;
+
+    [StringLength(256)]
+    [Unicode(false)]
+    public string? Email { get; set; }
 }

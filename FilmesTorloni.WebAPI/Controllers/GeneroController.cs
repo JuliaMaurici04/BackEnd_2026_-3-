@@ -2,6 +2,7 @@
 using FilmesTorloni.WebAPI.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Identity.Client;
 
 namespace FilmesTorloni.WebAPI.Controllers
 {
@@ -17,6 +18,34 @@ namespace FilmesTorloni.WebAPI.Controllers
             _generoRepository = generoRepository;
         }
 
+        [HttpGet]
+        public IActionResult Get()
+        {
+            try
+            {
+                return Ok(_generoRepository.Listar());
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult GetByid(Guid id)
+        {
+            try
+            {
+                return Ok(_generoRepository.buscarPorId(id));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+
+        }
+
+
         [HttpPost]
 
         public IActionResult Post(Genero novoGenero)
@@ -29,6 +58,53 @@ namespace FilmesTorloni.WebAPI.Controllers
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
+            }
+        }
+
+
+
+        [HttpPut("{id}")]
+
+        public IActionResult Put(Guid id, Genero generoAtualizado)
+        {
+            try
+            {
+                _generoRepository.AtualizarIdUrl(id, generoAtualizado);
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
+            }
+        }
+
+
+        [HttpPut]
+        public IActionResult PutBody(Genero generoAtualizado)
+        {
+            try
+            {
+                _generoRepository.AtualizarIdCorpo(generoAtualizado);
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(Guid id)
+        {
+            try
+            {
+                _generoRepository.Deletar(id);
+                return NoContent();
+            }
+            catch (Exception e)
+            {
+                return BadRequest(e.Message);
             }
         }
     }
