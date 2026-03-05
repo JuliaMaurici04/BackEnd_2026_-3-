@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:repositories\\filmerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:dto\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\filmestorloni.webapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C636EA-E0E2-BCF3-9237-8AE8998282C8}|FilmesTorloni.WebAPI.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,13 +42,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAGUAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T18:39:15.208Z",
               "IsPinned": true,
@@ -53,19 +57,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FilmeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\Repositories\\FilmeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\FilmeRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\Repositories\\FilmeRepository.cs",
+              "RelativeToolTip": "Repositories\\FilmeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:05:19.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FilmeController.cs",
               "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\Controllers\\FilmeController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilmeController.cs",
               "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "Controllers\\FilmeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T16:11:05.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FilmeDTO.cs",
               "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\DTO\\FilmeDTO.cs",
               "RelativeDocumentMoniker": "DTO\\FilmeDTO.cs",
@@ -78,20 +95,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAwBQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwDoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T17:46:02.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "LoginDTO.cs",
               "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\DTO\\LoginDTO.cs",
               "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
@@ -110,9 +127,10 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\FilmesTorloni.WebAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-19T17:41:23.61Z"
+              "WhenOpened": "2026-02-19T17:41:23.61Z",
+              "EditorCaption": ""
             }
           ]
         }
