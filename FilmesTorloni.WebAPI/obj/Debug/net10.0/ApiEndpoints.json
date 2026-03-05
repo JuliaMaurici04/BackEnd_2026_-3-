@@ -18,9 +18,19 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "novoFilme",
-        "Type": "FilmesTorloni.WebAPI.Models.Filme",
-        "IsRequired": true
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Imagem",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdGenero",
+        "Type": "System.Guid",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -71,9 +81,19 @@
         "IsRequired": true
       },
       {
-        "Name": "filmeAtualizado",
-        "Type": "FilmesTorloni.WebAPI.Models.Filme",
-        "IsRequired": true
+        "Name": "Nome",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Imagem",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "IdGenero",
+        "Type": "System.Guid",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

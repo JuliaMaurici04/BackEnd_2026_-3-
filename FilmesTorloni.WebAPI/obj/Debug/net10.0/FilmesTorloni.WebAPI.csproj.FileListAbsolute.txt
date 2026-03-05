@@ -469,3 +469,9 @@ C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\obj\Debug\net
 C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\obj\Debug\net10.0\ref\FilmesTorloni.WebAPI.dll
 C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\bin\Debug\net10.0\BCrypt.Net-Next.dll
 C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\obj\Debug\net10.0\FilmesTorloni.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\47709625843\Desktop\BackEnd_2026_-3-\FilmesTorloni.WebAPI\bin\Debug\net10.0\FilmesTorloni.WebAPI.staticwebassets.runtime.json

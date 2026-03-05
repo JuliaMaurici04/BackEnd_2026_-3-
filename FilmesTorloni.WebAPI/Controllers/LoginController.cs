@@ -18,7 +18,7 @@ public class LoginController : ControllerBase
     public LoginController(IUsuarioRepository usuarioRepository)
     {
         _usuarioRepository = usuarioRepository;
-    }
+    }   
 
     [HttpPost]
     public IActionResult Login(LoginDTO loginDTO)
@@ -41,7 +41,7 @@ public class LoginController : ControllerBase
                 //formato da claim
                 new Claim(JwtRegisteredClaimNames.Jti, usuarioBuscado.IdUsuario),
 
-                new Claim(JwtRegisteredClaimNames.Email, usuarioBuscado.Email),
+                new Claim(JwtRegisteredClaimNames.Email, usuarioBuscado.Email!),
 
                 //existe a possibilidade de criar uma claim personalizada
                 //new Claim("Claim Personalizada", "Valor da claim personalizada")
