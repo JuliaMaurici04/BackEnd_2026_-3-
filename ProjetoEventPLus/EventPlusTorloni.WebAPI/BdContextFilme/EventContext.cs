@@ -21,7 +21,7 @@ public partial class EventContext : DbContext
     public virtual DbSet<Evento> Eventos { get; set; }
 
     public virtual DbSet<Instituicao> Instituicaos { get; set; }
-
+     
     public virtual DbSet<Presenca> Presencas { get; set; }
 
     public virtual DbSet<TipoEvento> TipoEventos { get; set; }

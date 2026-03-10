@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 using Microsoft.EntityFrameworkCore;
 
 namespace EventPlusTorloni.WebAPI.Models;
@@ -27,16 +28,20 @@ public partial class Evento
     public Guid? Instituicao { get; set; }
 
     [InverseProperty("IdEventoNavigation")]
+    [JsonIgnore]
     public virtual ICollection<ComentarioEvento> ComentarioEventos { get; set; } = new List<ComentarioEvento>();
 
     [ForeignKey("IdTipoEvento")]
     [InverseProperty("Eventos")]
+    [JsonIgnore]
     public virtual TipoEvento? IdTipoEventoNavigation { get; set; }
 
     [ForeignKey("Instituicao")]
     [InverseProperty("Eventos")]
+    [JsonIgnore]
     public virtual Instituicao? InstituicaoNavigation { get; set; }
 
     [InverseProperty("IdEventoNavigation")]
+    [JsonIgnore]
     public virtual ICollection<Presenca> Presencas { get; set; } = new List<Presenca>();
 }

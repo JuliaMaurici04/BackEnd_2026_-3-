@@ -1,3 +1,4 @@
 <Solution>
+  <Folder Name="/Utils/" />
   <Project Path="EventPlusTorloni.WebAPI.csproj" />
 </Solution>

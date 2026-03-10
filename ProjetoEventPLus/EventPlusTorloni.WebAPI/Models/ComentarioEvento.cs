@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore;
+using System.Text.Json.Serialization;
 
 namespace EventPlusTorloni.WebAPI.Models;
 
@@ -32,5 +33,6 @@ public partial class ComentarioEvento
 
     [ForeignKey("IdUsuario")]
     [InverseProperty("ComentarioEventos")]
+
     public virtual Usuario? IdUsuarioNavigation { get; set; }
 }

@@ -3,12 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D79AC128-E78D-4EF1-A5C3-A603C4571C35}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D79AC128-E78D-4EF1-A5C3-A603C4571C35}|EventPlusTorloni.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\dto\\tipoeventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:dto\\tipoeventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\BdContextFilme\\EventContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BdContextFilme\\EventContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\controllers\\tipoeventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:controllers\\tipoeventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\models\\instituicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:models\\instituicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\models\\presenca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:models\\presenca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:models\\tipousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\models\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:models\\tipoevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\models\\comentarioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:models\\comentarioevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\repositories\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:repositories\\tipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\interfaces\\itipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:interfaces\\itipousuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\interfaces\\itipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:interfaces\\itipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\repositories\\instituicaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:repositories\\instituicaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\repositories\\tipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:repositories\\tipoeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\interfaces\\ipresencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:interfaces\\ipresencarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\icomentarioeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:icomentarioeventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\interfaces\\iinstituicaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:interfaces\\iinstituicaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:criptografia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|c:\\users\\47709625843\\desktop\\backend_2026_-3-\\projetoeventplus\\eventplustorloni.webapi\\bdcontextfilme\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DB783E-60D8-B08B-4E4B-5CA3138C5AF3}|EventPlusTorloni.WebAPI.csproj|solutionrelative:bdcontextfilme\\eventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +106,318 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventContext.cs",
-              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\BdContextFilme\\EventContext.cs",
-              "RelativeDocumentMoniker": "BdContextFilme\\EventContext.cs",
-              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\BdContextFilme\\EventContext.cs",
-              "RelativeToolTip": "BdContextFilme\\EventContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TipoEventoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\DTO\\TipoEventoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TipoEventoDTO.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\DTO\\TipoEventoDTO.cs",
+              "RelativeToolTip": "DTO\\TipoEventoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T19:37:30.456Z",
+              "WhenOpened": "2026-03-10T18:49:28.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:50:48.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T17:41:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\TipoUsuario.cs",
+              "RelativeDocumentMoniker": "Models\\TipoUsuario.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\TipoUsuario.cs",
+              "RelativeToolTip": "Models\\TipoUsuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:46:31.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Presenca.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\Presenca.cs",
+              "RelativeDocumentMoniker": "Models\\Presenca.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\Presenca.cs",
+              "RelativeToolTip": "Models\\Presenca.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:47:19.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Instituicao.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\Instituicao.cs",
+              "RelativeDocumentMoniker": "Models\\Instituicao.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\Instituicao.cs",
+              "RelativeToolTip": "Models\\Instituicao.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:46:17.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\Evento.cs",
+              "RelativeToolTip": "Models\\Evento.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA+wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:44:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoEventoController.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Controllers\\TipoEventoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoEventoController.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Controllers\\TipoEventoController.cs",
+              "RelativeToolTip": "Controllers\\TipoEventoController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:05:43.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwBMAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T19:19:10.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ComentarioEvento.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\ComentarioEvento.cs",
+              "RelativeDocumentMoniker": "Models\\ComentarioEvento.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\ComentarioEvento.cs",
+              "RelativeToolTip": "Models\\ComentarioEvento.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:48:18.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoEvento.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\TipoEvento.cs",
+              "RelativeDocumentMoniker": "Models\\TipoEvento.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Models\\TipoEvento.cs",
+              "RelativeToolTip": "Models\\TipoEvento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T18:46:54.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InstituicaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Repositories\\InstituicaoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InstituicaoRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Repositories\\InstituicaoRepository.cs",
+              "RelativeToolTip": "Repositories\\InstituicaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:10:29.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITipoUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\ITipoUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITipoUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\ITipoUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITipoUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:26:00.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Repositories\\TipoUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TipoUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Repositories\\TipoUsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\TipoUsuarioRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T14:14:55.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T16:25:36.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TipoEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Repositories\\TipoEventoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TipoEventoRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Repositories\\TipoEventoRepository.cs",
+              "RelativeToolTip": "Repositories\\TipoEventoRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:31:24.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITipoEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\ITipoEventoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITipoEventoRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\ITipoEventoRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITipoEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:14:30.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\IEventoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEventoRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\IEventoRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:21:23.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPresencaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\IPresencaRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPresencaRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\IPresencaRepository.cs",
+              "RelativeToolTip": "Interfaces\\IPresencaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:15:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IComentarioEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\IComentarioEventoRepository.cs",
+              "RelativeDocumentMoniker": "IComentarioEventoRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\IComentarioEventoRepository.cs",
+              "RelativeToolTip": "IComentarioEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T13:01:37.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IInstituicaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\IInstituicaoRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IInstituicaoRepository.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Interfaces\\IInstituicaoRepository.cs",
+              "RelativeToolTip": "Interfaces\\IInstituicaoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:27:52.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Criptografia.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Criptografia.cs",
+              "RelativeDocumentMoniker": "Criptografia.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\Criptografia.cs",
+              "RelativeToolTip": "Criptografia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:04:02.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T11:39:08.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventContext.cs",
+              "DocumentMoniker": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\BdContextFilme\\EventContext.cs",
+              "RelativeDocumentMoniker": "BdContextFilme\\EventContext.cs",
+              "ToolTip": "C:\\Users\\47709625843\\Desktop\\BackEnd_2026_-3-\\ProjetoEventPLus\\EventPlusTorloni.WebAPI\\BdContextFilme\\EventContext.cs",
+              "RelativeToolTip": "BdContextFilme\\EventContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T19:37:30.456Z",
               "EditorCaption": ""
             }
           ]
